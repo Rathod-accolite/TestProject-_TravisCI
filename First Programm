@@ -1,0 +1,9 @@
+Class NBA{
+Void GOAT(){
+System.out.println("Lebron is Greatest of all time");
+}
+Public static void main(String[] args){
+NBA N1=new NBA();
+N1.GOAT();
+}
+}
